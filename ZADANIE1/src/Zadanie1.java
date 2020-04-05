@@ -6,8 +6,8 @@ public class Zadanie1 {
         int liczba;
         int choice;
         System.out.println("Wybierz co mam zrobić: " +
-                "1. Sprawdzić czy liczba jest parzysta " +
-                "2. Sprawdzić czy liczba jest pierwsza " +
+                "1. Sprawdzić czy liczba jest pierwsza " +
+                "2. Sprawdzić czy liczba jest parzysta " +
                 "3. Zakończyć program ");
 
         choice=scan.nextInt();
@@ -20,7 +20,7 @@ public class Zadanie1 {
                 break;
             case 2:
                 Dzielenie liczby = new Dzielenie ();
-                liczby.sprawdzanieLP(liczba);
+                liczby.dzielBezReszty(liczba);
                 break;
             case 3:
                 Dzielenie wszystkiego = new Dzielenie();
