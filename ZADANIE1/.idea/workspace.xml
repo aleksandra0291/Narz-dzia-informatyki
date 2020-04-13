@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96c3bc05-22a7-430d-a320-7263ae3e6cbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Indywidual1/Dzielenie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Indywidual1/Dzielenie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Indywidual1/META-INF/Indywidual1.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Indywidual1/Zadanie1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Indywidual1/Zadanie1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dzielenie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dzielenie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadanie1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +72,9 @@
       <workItem from="1585742530115" duration="695000" />
       <workItem from="1586084649719" duration="1741000" />
       <workItem from="1586107674469" duration="6023000" />
-      <workItem from="1586118962205" duration="217000" />
+      <workItem from="1586118962205" duration="821000" />
+      <workItem from="1586457146405" duration="274000" />
+      <workItem from="1586795363952" duration="393000" />
     </task>
     <servers />
   </component>
@@ -90,7 +86,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
