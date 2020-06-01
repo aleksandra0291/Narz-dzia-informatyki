@@ -32,6 +32,4 @@ public class Przedmiot {
     void wypisz() {
         System.out.println("Nazwa przedmiotu : " + nazwa + "\n" + "Typ przedmiotu : " + typ + "\n" + "Wyprodukowano przez :" + producent + "\n" + "Rok produkcji : " + rok_produkcji + "\n");
     }
-
-
 }
