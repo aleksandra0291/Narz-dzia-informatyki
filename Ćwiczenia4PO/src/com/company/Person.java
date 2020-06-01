@@ -1,10 +1,14 @@
- package com.company;
+package com.company;
 import java.util.Scanner;
 
 public class Person {
+    Scanner scan = new Scanner(System.in);
     String surname;
     String name;
     int age;
+    void wyswietl(){
+
+    }
     Address a1 = new Address("","","");
 public Person(String sn, String n, int a, String c, String s, String zc){
     this.surname=sn;

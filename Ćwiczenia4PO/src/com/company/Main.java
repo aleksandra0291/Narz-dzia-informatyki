@@ -27,7 +27,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.println("Nazwisko");
+        System.out.println("Imię");
         String surname = scan.nextLine();
         System.out.println("Imię");
         String name = scan.nextLine();
